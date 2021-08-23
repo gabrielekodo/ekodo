@@ -1,0 +1,21 @@
+total 56
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 13:12 *\
+drwxrwxr-x 2 vagrant vagrant  4096 Aug 23 13:24 .
+drwxrwxr-x 4 vagrant vagrant  4096 Aug 23 10:44 ..
+-rw------- 1 vagrant vagrant 12288 Aug 23 11:01 .1-confused_smiley.swp
+-rwxrw-r-- 1 vagrant vagrant    34 Aug 23 10:59 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant    26 Aug 23 11:03 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant    29 Aug 23 11:09 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant    40 Aug 23 11:29 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant    31 Aug 23 11:41 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant    30 Aug 23 11:42 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant    37 Aug 23 12:35 6-third_line
+-rw-rw-r-- 1 vagrant vagrant    13 Aug 23 12:37 7-file
+-rwxrw-r-- 1 vagrant vagrant    37 Aug 23 13:22 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 13:10 School'\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 13:16 School\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 13:14 \*\
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 13:10 \*\'$'Best
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 13:16 \*\'Best
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 12:51 \*\'\nBest
+-rw-rw-r-- 1 vagrant vagrant     0 Aug 23 13:24 ls_cwd_content
